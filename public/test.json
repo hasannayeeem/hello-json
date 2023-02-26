@@ -1,0 +1,13 @@
+{
+    "name": "testName",
+    "className": {
+        "bg": "red"
+    },
+    "style": {
+            "mobile": {
+              "display": "none"
+            },
+        "backgroundColor": "#fcfcfc",
+        "color": "purple"
+    }
+}
